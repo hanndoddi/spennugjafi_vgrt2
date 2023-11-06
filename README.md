@@ -162,3 +162,29 @@ plötuna
 | 2      | Q2, Q5                   | BD139 BJT NPN                 | Philips\TO-126                                    | Íhl.: 11BD139         |
 | 1      | Q3                       | BC557AP BJT PNP               | Generic\TO-92                                     | Íhl.: 11BC549         |
 | 1      | Q43                      | NTE130 (2N3055A) BJT NPN      | (Þetta er transistorinn sem er á<br>kæliplötunni) | Motorola\TO-4         |
+
+
+
+| Fjöldi | Númer:                      | Heiti:                                    | Auðkenni.:                                      | Vörunúmer:        |
+| ------ | --------------------------- | ----------------------------------------- | ----------------------------------------------- | ----------------- |
+| 3      | U1, U2, U3                  | Sökklar fyrir TL071                       | Íhl.:                                           |                   |
+| 3      | U1, U2, U3                  | TL071 (CA3140E) OPAMP                     | IPC-2221A/2222\PDIP-8                           | Íhl.: 12TL071     |
+| 1      | U4                          | LM78E5CT 1Amp. Volt.<br>Reg.              | Generic\TO-220                                  | Íhl.:             |
+| 1      | C1                          | 10000µF 63V rafvökva-<br>þéttir           | IPC-2221A/2222\CAPPR150-<br>400X500             | Íhl.: 2187000063  |
+| 2      | C2, C3                      | 47µF 63V rafvökvaþéttir                   | IPC-2221A/2222\CAPPR150-<br>400X500             | Íhl.: 2180047025  |
+| 2      | C4, C6                      | 100nF þéttir (keramik)                    | IPC-7351\AlumElec-CaseA<br>Ceramic              | Íhl.: 2110K100    |
+| 1      | C5                          | 220nF þéttir (keramik)                    | IPC-7351\AlumElec-CaseA<br>Ceramic              | Íhl.: 2110K220    |
+| 1      | C7                          | 10µF 63V rafvökvaþéttir,                  | IPC-2221A/2222\CAPPR150-<br>400X500 (pinup 7mm) | Íhl.: 21800010050 |
+| 1      | C8                          | 330pF / þéttir                            | IPC-7351\AlumElec-CaseA<br>Ceramic              | Íhl.:             |
+| 1      | C9                          | 100pF / þéttir                            | IPC-7351\AlumElec-CaseA<br>Ceramic              | Íhl.:             |
+| 2      | C10, C11                    | 10µF / SMD þéttir                         | SMD                                             | Íhl.:             |
+| 2      | P1, P2                      | 10kΩ Stilliviðnám (lin<br>pot.)           | Generic\LIN POT (6mm lin<br>mono m/rifflum B)   | Íhl.: 206412      |
+| 1      | RV1                         | 10kΩ Stilliviðnám<br>(trimm) lítið lárétt | Generic\LIN POT                                 | Íhl.: 20213       |
+| 2      | J1, J2                      | Skrúfutengi 2ja póla<br>12mm              | (24V AC og 0-30VDC)                             | Íhl.: 226002      |
+| 1      | J3                          | USB-A tengi                               | (hún á prent vinkil)                            | Íhl.: 227504      |
+| 1      | J4                          | Skrúfutengi 3ja póla<br>12mm              | (tengist í NTE130)                              | Íhl.: 226003      |
+| 1      | J5                          | HDR1X4 tengi m/leiðslu                    | 2,5mm /stýring (tengist í J30)                  | Íhl.: 225024      |
+| 3      | J6, J7, J8                  | HDR1X3 tengi m/leiðslu                    | 2,5mm /stýring (tengjast í<br>S2)               | Íhl.: 225023      |
+| 1      | J9                          | HDR1X2 tengi m/leiðslu                    | 2,5mm /stýring (tengist í<br>LED1)              | Íhl.: 225022      |
+| 1      | S2                          | Þrefaldur skiptari                        | Íhlutir # 250830                                | Íhl.: 250830      |
+| 18     | Einþátta tengivírar Φ 0,5mm |                                           |                                                 |                   |
