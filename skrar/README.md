@@ -1,0 +1,1 @@
+Svæði fyrir skrár eins og rásateikningar,layout, prentplötur, cad o.s.frv.
