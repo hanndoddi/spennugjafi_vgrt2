@@ -62,7 +62,7 @@ plötuna
 
 3. Lóðaðu allar díóður á prentplötuna. Athugaðu að snúa díóðum rétt sbr. silkiprentið á plötunni (og smkv. rafrása teikningunni). Að undanskildum D1, D2, D3, og D4, eiga allar díóður að leggjast þétt að prentplötunni.
 
-![pcb_utlit](/myndir/image005_pcb_utlit.jpg)
+   ![pcb_utlit](/myndir/image005_pcb_utlit.jpg)
 
 4. Lóðaðu transistorana Q1, Q2, Q3 og Q5 þannig að hús þeirra standi semnæst prentplötunni.
 
@@ -95,7 +95,7 @@ plötuna
     - Áður en þú lóðar vírana á LED díóðuna setur þú u.þ.b. 2,5cm langthitaádrag upp á hvorn vír leiðslunnar sem síðan er rennt yfir fætur LED díóðunnar og hitað með hitabyssu
     - Rauði vír HDR1X2 tengisins tengist í anóðu LED díóðunnar (sem er lengri vírinn á LED díóðunni).
 
-    ![led](/myndir/image007_led.png)
+      ![led](/myndir/image007_led.png)
 
 15. Tengdu HDR1X2 tengileiðsluna í J9. 
 
@@ -118,6 +118,8 @@ plötuna
         - p1, brún leiðsla tengist í röð 1
         - p2, rauð leiðsla tengist í röð 2
         - p3, applesínugul leiðsla tengist í röð 3
+
+        ![s2](/myndir/s2_þrefaldur_skiptari.png)
 
 17. Þegar búið er að koma öllum íhlutunum á plötuna og lóða þá á:
     
