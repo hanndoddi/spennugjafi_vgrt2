@@ -33,6 +33,8 @@ Markmiðið með þessu verkefni er að nemandinn
 2) Leikni í að meðhöndla rafeindaíhluti og lóða þá á prentplötu
 3) Hæfni til þess að hagnýta sér þekkingu sína og leikni við að tengja og lóða íhluti á prentplötu.
 
+![utlit](//myndir/image002_utlit.png)
+
 # 5.1. Verklýsing
 
 ## 5.1.1. Rásateikning stýriplötunnar er í verkefni 1-2.
