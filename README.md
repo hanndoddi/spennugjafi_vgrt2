@@ -33,7 +33,8 @@ Markmiðið með þessu verkefni er að nemandinn
 2) Leikni í að meðhöndla rafeindaíhluti og lóða þá á prentplötu
 3) Hæfni til þess að hagnýta sér þekkingu sína og leikni við að tengja og lóða íhluti á prentplötu.
 
-![utlit](//myndir/image002_utlit.png)
+![utlit](/myndir/image002_utlit.png)
+
 
 # 5.1. Verklýsing
 
@@ -58,6 +59,8 @@ plötuna
 2. Lóðaðu allar mótstöður á prentplötuna. Aðrar mótstöður en R1 og R7 eiga að leggjast þétt að prentplötunni.
 
 3. Lóðaðu allar díóður á prentplötuna. Athugaðu að snúa díóðum rétt sbr. silkiprentið á plötunni (og smkv. rafrása teikningunni). Að undanskildum D1, D2, D3, og D4, eiga allar díóður að leggjast þétt að prentplötunni.
+
+![pcb_utlit](/myndir/image005_pcb_utlit.jpg)
 
 4. Lóðaðu transistorana Q1, Q2, Q3 og Q5 þannig að hús þeirra standi semnæst prentplötunni.
 
@@ -89,6 +92,8 @@ plötuna
     
     - Áður en þú lóðar vírana á LED díóðuna setur þú u.þ.b. 2,5cm langthitaádrag upp á hvorn vír leiðslunnar sem síðan er rennt yfir fætur LED díóðunnar og hitað með hitabyssu
     - Rauði vír HDR1X2 tengisins tengist í anóðu LED díóðunnar (sem er lengri vírinn á LED díóðunni).
+
+    ![led](/myndir/image007_led.png)
 
 15. Tengdu HDR1X2 tengileiðsluna í J9. 
 
@@ -190,3 +195,24 @@ plötuna
 | 1      | J9                          | HDR1X2 tengi m/leiðslu                    | 2,5mm /stýring (tengist í<br>LED1)              | Íhl.: 225022      |
 | 1      | S2                          | Þrefaldur skiptari                        | Íhlutir # 250830                                | Íhl.: 250830      |
 | 18     | Einþátta tengivírar Φ 0,5mm |                                           |                                                 |                   |
+
+## teikningar 
+
+Mynd 5-1. prentplatan sé ofan frá , Silkiprent
+
+![silki](/myndir/image013_silki.png)
+
+
+Mynd 5-2. Prentplatan séð neðan frá, leiðarar og lóðfletir
+
+![pcb neðan](/myndir/image014_pcb_bottom.png)
+
+
+Mynd 5-3. Prentplatan eins og horft sé í gegnum hana að ofan frá í leiðara og lóðflet.
+
+![pcb top](/myndir/image015_pcb_top_bw.png)
+
+Mynd 5-4. Rafmagnsteikningar rásarinnar
+
+![rasateikn](/myndir/image016_rasateikning.jpg)
+
