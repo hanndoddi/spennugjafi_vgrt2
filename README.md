@@ -8,6 +8,8 @@ VGRT2GH03CR**
 *Höfundar: Sigurður Örn Kristjánsson
 Steingrímur B. Gunnarsson*
 
+![utlit](/myndir/image002_utlit.png)
+
 ## Inngangur:
 
 Þegar þú hefur lokið þessum verkþætti/verkefni,
@@ -33,7 +35,7 @@ Markmiðið með þessu verkefni er að nemandinn
 2) Leikni í að meðhöndla rafeindaíhluti og lóða þá á prentplötu
 3) Hæfni til þess að hagnýta sér þekkingu sína og leikni við að tengja og lóða íhluti á prentplötu.
 
-![utlit](/myndir/image002_utlit.png)
+
 
 
 # 5.1. Verklýsing
@@ -196,7 +198,7 @@ plötuna
 | 1      | S2                          | Þrefaldur skiptari                        | Íhlutir # 250830                                | Íhl.: 250830      |
 | 18     | Einþátta tengivírar Φ 0,5mm |                                           |                                                 |                   |
 
-## teikningar 
+# teikningar 
 
 Mynd 5-1. prentplatan sé ofan frá , Silkiprent
 
